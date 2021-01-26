@@ -1,0 +1,14 @@
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\bin\Debug\netcoreapp3.1\ListÇalışması.exe
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\bin\Debug\netcoreapp3.1\ListÇalışması.deps.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\bin\Debug\netcoreapp3.1\ListÇalışması.runtimeconfig.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\bin\Debug\netcoreapp3.1\ListÇalışması.runtimeconfig.dev.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\bin\Debug\netcoreapp3.1\ListÇalışması.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\bin\Debug\netcoreapp3.1\ListÇalışması.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.Form1.resources
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.AssemblyInfo.cs
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListÇalışması\ListÇalışması\obj\Debug\netcoreapp3.1\ListÇalışması.genruntimeconfig.cache

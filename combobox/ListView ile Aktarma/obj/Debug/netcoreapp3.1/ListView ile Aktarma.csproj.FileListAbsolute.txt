@@ -1,0 +1,14 @@
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView_ile_Aktarma.Form1.resources
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView ile Aktarma.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView ile Aktarma.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView ile Aktarma.AssemblyInfo.cs
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView ile Aktarma.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\bin\Debug\netcoreapp3.1\ListView ile Aktarma.exe
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\bin\Debug\netcoreapp3.1\ListView ile Aktarma.deps.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\bin\Debug\netcoreapp3.1\ListView ile Aktarma.runtimeconfig.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\bin\Debug\netcoreapp3.1\ListView ile Aktarma.runtimeconfig.dev.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\bin\Debug\netcoreapp3.1\ListView ile Aktarma.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\bin\Debug\netcoreapp3.1\ListView ile Aktarma.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView ile Aktarma.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView ile Aktarma.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ListView ile Aktarma\ListView ile Aktarma\obj\Debug\netcoreapp3.1\ListView ile Aktarma.genruntimeconfig.cache

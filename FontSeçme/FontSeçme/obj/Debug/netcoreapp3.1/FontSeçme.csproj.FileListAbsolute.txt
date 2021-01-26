@@ -1,0 +1,15 @@
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\bin\Debug\netcoreapp3.1\FontSeçme.exe
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\bin\Debug\netcoreapp3.1\FontSeçme.deps.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\bin\Debug\netcoreapp3.1\FontSeçme.runtimeconfig.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\bin\Debug\netcoreapp3.1\FontSeçme.runtimeconfig.dev.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\bin\Debug\netcoreapp3.1\FontSeçme.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\bin\Debug\netcoreapp3.1\FontSeçme.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.csprojAssemblyReference.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.Form1.resources
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.AssemblyInfo.cs
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\FontSeçme\FontSeçme\obj\Debug\netcoreapp3.1\FontSeçme.genruntimeconfig.cache
